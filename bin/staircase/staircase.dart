@@ -25,7 +25,7 @@ int staircase(int n,List x){ // O(x*n)
   List<int> z = [1];
 
   // for example:
-  // n = 3
+  // n = 1
   // x = [ 1, 2, 3 ]
 
   // f(1) = f(1-1) + f(1-2) + f(1-3);
